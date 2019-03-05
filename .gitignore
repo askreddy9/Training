@@ -4,7 +4,6 @@ target/
 */password.txt
 */*.jar
 *.war
-<<<<<<< HEAD
 .txt
 .dll
 
